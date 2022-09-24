@@ -40,4 +40,4 @@ Open `gradle.build` in Android Studio and run the app on an emulator or directly
 
 ## Steps for read and write access (recommended)
 
-<b>Enjoy exploring the app and feel free to leave <a href="">feedback</a>.</b>
+<b>Enjoy exploring the app and feel free to leave <a href="https://github.com/smartinternz02/SPSGP-90068-Virtual-Internship---Android-Application-Development-Using-Kotlin/issues/new">feedback</a>.</b>
