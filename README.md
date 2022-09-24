@@ -11,7 +11,7 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 [Project Demo]()
 
 
-<img src="Grocery app project-2/asset/st.jpg" width="200"/><br><img src="Grocery app project-2/asset/mi.jpg" width="200"/> 
+<img src="asset/st.jpg" width="200"/><br><img src="asset/mi.jpg" width="200"/> 
 
 
 ## Requirements
